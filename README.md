@@ -1,2 +1,2 @@
 # hello-world
-POC of different technologies.
+POC of different technologies and ideas.
